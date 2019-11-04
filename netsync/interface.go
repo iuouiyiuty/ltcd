@@ -5,12 +5,12 @@
 package netsync
 
 import (
-	"github.com/ltcsuite/ltcd/blockchain"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/mempool"
-	"github.com/ltcsuite/ltcd/peer"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/iuouiyiuty/ltcd/blockchain"
+	"github.com/iuouiyiuty/ltcd/chaincfg"
+	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
+	"github.com/iuouiyiuty/ltcd/mempool"
+	"github.com/iuouiyiuty/ltcd/peer"
+	"github.com/iuouiyiuty/ltcd/wire"
 	"github.com/ltcsuite/ltcutil"
 )
 

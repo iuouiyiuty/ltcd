@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/btcjson"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/iuouiyiuty/ltcd/btcjson"
+	"github.com/iuouiyiuty/ltcd/wire"
 )
 
 // TestChainSvrCmds tests all of the chain server commands marshal and unmarshal
@@ -360,7 +360,7 @@ func TestChainSvrCmds(t *testing.T) {
 			},
 			marshalled: `{"jsonrpc":"1.0","method":"getcfilter","params":["123",0],"id":1}`,
 			unmarshalled: &btcjson.GetCFilterCmd{
-				Hash:    "123",
+				Hash:       "123",
 				FilterType: wire.GCSFilterRegular,
 			},
 		},
@@ -374,7 +374,7 @@ func TestChainSvrCmds(t *testing.T) {
 			},
 			marshalled: `{"jsonrpc":"1.0","method":"getcfilterheader","params":["123",0],"id":1}`,
 			unmarshalled: &btcjson.GetCFilterHeaderCmd{
-				Hash:    "123",
+				Hash:       "123",
 				FilterType: wire.GCSFilterRegular,
 			},
 		},

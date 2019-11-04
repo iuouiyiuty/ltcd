@@ -7,7 +7,7 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/ltcsuite/ltcd/database"
+	"github.com/iuouiyiuty/ltcd/database"
 	"github.com/ltcsuite/ltcutil"
 )
 
