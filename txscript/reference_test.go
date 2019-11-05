@@ -17,7 +17,7 @@ import (
 
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // scriptTestName returns a descriptive test name for the given reference script

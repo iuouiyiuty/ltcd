@@ -12,9 +12,9 @@ import (
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/database"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
-	"github.com/ltcsuite/ltcutil/gcs"
-	"github.com/ltcsuite/ltcutil/gcs/builder"
+	"github.com/iuouiyiuty/ltcutil"
+	"github.com/iuouiyiuty/ltcutil/gcs"
+	"github.com/iuouiyiuty/ltcutil/gcs/builder"
 )
 
 const (

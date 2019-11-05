@@ -18,7 +18,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/txscript"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // fakeChain is used by the pool harness to provide generated test utxos and

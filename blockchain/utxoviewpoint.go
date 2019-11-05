@@ -11,7 +11,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/database"
 	"github.com/iuouiyiuty/ltcd/txscript"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // txoFlags is a bitmask defining additional information and state for a

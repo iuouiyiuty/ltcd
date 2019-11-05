@@ -14,7 +14,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/database"
 	_ "github.com/iuouiyiuty/ltcd/database/ffldb"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 var (

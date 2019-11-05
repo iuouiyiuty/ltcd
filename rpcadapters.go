@@ -13,7 +13,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/netsync"
 	"github.com/iuouiyiuty/ltcd/peer"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

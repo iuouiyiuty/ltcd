@@ -12,7 +12,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/btcjson"
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // SigHashType enumerates the available signature hashing types that the

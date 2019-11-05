@@ -15,7 +15,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/chaincfg"
 	"github.com/iuouiyiuty/ltcd/database"
 	"github.com/iuouiyiuty/ltcd/database/ffldb"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // dbType is the database type name for this driver.

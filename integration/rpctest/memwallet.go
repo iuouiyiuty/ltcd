@@ -17,8 +17,8 @@ import (
 	"github.com/iuouiyiuty/ltcd/rpcclient"
 	"github.com/iuouiyiuty/ltcd/txscript"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
-	"github.com/ltcsuite/ltcutil/hdkeychain"
+	"github.com/iuouiyiuty/ltcutil"
+	"github.com/iuouiyiuty/ltcutil/hdkeychain"
 )
 
 var (

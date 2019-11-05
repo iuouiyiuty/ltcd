@@ -11,7 +11,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/chaincfg"
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/txscript"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

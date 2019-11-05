@@ -29,8 +29,8 @@ import (
 	_ "github.com/iuouiyiuty/ltcd/database/ffldb"
 	"github.com/iuouiyiuty/ltcd/mempool"
 	"github.com/iuouiyiuty/ltcd/peer"
+	"github.com/iuouiyiuty/ltcutil"
 	flags "github.com/jessevdk/go-flags"
-	"github.com/ltcsuite/ltcutil"
 )
 
 const (

@@ -25,7 +25,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/database"
 	"github.com/iuouiyiuty/ltcd/database/internal/treap"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 const (

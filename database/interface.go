@@ -9,7 +9,7 @@ package database
 
 import (
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

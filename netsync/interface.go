@@ -11,7 +11,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/mempool"
 	"github.com/iuouiyiuty/ltcd/peer"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // PeerNotifier exposes methods to notify peers of status changes to

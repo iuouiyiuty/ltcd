@@ -14,7 +14,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/chaincfg"
 	"github.com/iuouiyiuty/ltcd/database"
 	_ "github.com/iuouiyiuty/ltcd/database/ffldb"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

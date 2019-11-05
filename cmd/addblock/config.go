@@ -13,8 +13,8 @@ import (
 	"github.com/iuouiyiuty/ltcd/database"
 	_ "github.com/iuouiyiuty/ltcd/database/ffldb"
 	"github.com/iuouiyiuty/ltcd/wire"
+	"github.com/iuouiyiuty/ltcutil"
 	flags "github.com/jessevdk/go-flags"
-	"github.com/ltcsuite/ltcutil"
 )
 
 const (

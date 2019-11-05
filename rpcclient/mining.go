@@ -11,7 +11,7 @@ import (
 
 	"github.com/iuouiyiuty/ltcd/btcjson"
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // FutureGenerateResult is a future promise to deliver the result of a

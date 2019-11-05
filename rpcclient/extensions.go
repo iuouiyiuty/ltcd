@@ -15,7 +15,7 @@ import (
 	"github.com/iuouiyiuty/ltcd/btcjson"
 	"github.com/iuouiyiuty/ltcd/chaincfg/chainhash"
 	"github.com/iuouiyiuty/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // FutureDebugLevelResult is a future promise to deliver the result of a

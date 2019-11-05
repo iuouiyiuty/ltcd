@@ -11,7 +11,7 @@ import (
 
 	"github.com/iuouiyiuty/ltcd/chaincfg"
 	"github.com/iuouiyiuty/ltcd/database"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/iuouiyiuty/ltcutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis
